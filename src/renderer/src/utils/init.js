@@ -11,7 +11,7 @@ export function initBaseData(mode="db"){
     if(mode=="db"){
         // 显示爬虫
         sendDbWindowsEvent({
-            show: false,
+            show: true,
             url: "db",
           });
     }

@@ -12,10 +12,6 @@
         <img src="../assets/icon/book.png" alt="" />
         <span>小说</span>
       </li>
-      <li @click="onToAddress(2)">
-        <img src="../assets/icon/yunpan.png" alt="" />
-        <span>更多</span>
-      </li>
     </ul>
   </div>
 
