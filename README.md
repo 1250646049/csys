@@ -61,6 +61,18 @@ npm install  或者  yarn
 yarn dev
 ​```
 
+打包(window):
+​```
+yarn build:win
+​```
+打包(mac):
+​```
+yarn build:mac
+​```
+打包(linux):
+​```
+yarn build:linux
+​```
 然后等待页面显示即可。
 
 ### 关于界面
