@@ -36,6 +36,42 @@
 ### 当然，你也可以重启软件！！！ 目前已经对接了三个第三方资源的站点
 #### 至于稳不稳定，那就要看目标站点的实际情况了。
 
+### 关于界面
+---
+##### 视频首页:
+![image](https://github.com/1250646049/csys/assets/24505978/48273509-2489-4d11-80f3-f319b2c5a45c)
+
+##### 视频详情页:
+
+![image](https://github.com/1250646049/csys/assets/24505978/97682500-cc75-4521-8e6a-bdd9b9953005)
+
+##### 视频播放页:
+![image](https://github.com/1250646049/csys/assets/24505978/c44137cd-5461-4a4a-82fe-a49ab6de094f)
+
+##### 全网视频搜索页:
+##### 网络资源
+![image](https://github.com/1250646049/csys/assets/24505978/4200c87f-bb34-4668-80f1-232eecccb8d1)
+
+##### 本地资源
+###### 并且强力搜索可以快速获取你想看的资源到本地。
+![image](https://github.com/1250646049/csys/assets/24505978/4454fb01-7681-4873-921c-0927da094075)
+
+
+##### 视频检索页
+![image](https://github.com/1250646049/csys/assets/24505978/55a6d635-2aa1-4abd-8009-f0b0ce1a8fbd)
+
+
+##### 历史记录
+![image](https://github.com/1250646049/csys/assets/24505978/a5849b63-294f-4b5e-8ff4-9f051ef42518)
+
+##### 爬虫页（默认后台允运行）
+![image](https://github.com/1250646049/csys/assets/24505978/97189f64-7f04-48f1-9d4e-39569bac5dbc)
+
+##### 小说阅读页
+###### 更多功能等你探索~~~~
+![image](https://github.com/1250646049/csys/assets/24505978/7bffc4c6-a206-4ba4-8cfe-ebafe22451f6)
+
+---
 
 ### 关于调试
 ---
@@ -74,42 +110,4 @@ yarn build:mac
 yarn build:linux
 ​```
 然后等待页面显示即可。
-
-### 关于界面
----
-##### 视频首页:
-![image](https://github.com/1250646049/csys/assets/24505978/48273509-2489-4d11-80f3-f319b2c5a45c)
-
-##### 视频详情页:
-
-![image](https://github.com/1250646049/csys/assets/24505978/97682500-cc75-4521-8e6a-bdd9b9953005)
-
-##### 视频播放页:
-![image](https://github.com/1250646049/csys/assets/24505978/c44137cd-5461-4a4a-82fe-a49ab6de094f)
-
-##### 全网视频搜索页:
-##### 网络资源
-![image](https://github.com/1250646049/csys/assets/24505978/4200c87f-bb34-4668-80f1-232eecccb8d1)
-
-##### 本地资源
-###### 并且强力搜索可以快速获取你想看的资源到本地。
-![image](https://github.com/1250646049/csys/assets/24505978/4454fb01-7681-4873-921c-0927da094075)
-
-
-##### 视频检索页
-![image](https://github.com/1250646049/csys/assets/24505978/55a6d635-2aa1-4abd-8009-f0b0ce1a8fbd)
-
-
-##### 历史记录
-![image](https://github.com/1250646049/csys/assets/24505978/a5849b63-294f-4b5e-8ff4-9f051ef42518)
-
-##### 爬虫页（默认后台允运行）
-![image](https://github.com/1250646049/csys/assets/24505978/97189f64-7f04-48f1-9d4e-39569bac5dbc)
-
-##### 小说阅读页
-###### 更多功能等你探索~~~~
-![image](https://github.com/1250646049/csys/assets/24505978/7bffc4c6-a206-4ba4-8cfe-ebafe22451f6)
-
----
-
 ## 未完待续~~~~
